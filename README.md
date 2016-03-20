@@ -4,3 +4,6 @@
 
 Aquests scripts tenen sentit quan s'ha de sincronitzar un pendrive en dos ordinadors diferents amb moltes carpetes.
 
+```
+Atenció aquests scripts actualment estan en procés de revisió
+```
